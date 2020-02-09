@@ -1,0 +1,6 @@
+Client <-> Server - Python - File (BackEnd)
+<CGI 설정>
+1) apache2\conf\httpd.conf
+-> DocumentRoot, Directory : Files설정
+2) Helloworld.py <- #!python
+3) Helloworld.py <- content-type(검사)
